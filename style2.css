@@ -1,0 +1,10 @@
+h1{
+    font-size: 3em;
+}
+#main{
+    background-color: darkgray;
+    margin-top: 20px;
+}
+.drop{
+    background-color: aqua;
+}
